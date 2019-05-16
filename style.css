@@ -19,3 +19,9 @@ body {
   height: 50px;
   padding: 5px;
 }
+
+.snakeBody {
+  background: url(scale.jpg);
+  background-size: cover;
+  border-radius: 50px;
+}
