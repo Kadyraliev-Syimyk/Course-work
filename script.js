@@ -20,7 +20,8 @@ for (let i = 0; i < excel.length; i++) {
   excel[i].setAttribute('posX', x);
   excel[i].setAttribute('posY', y);
   x++;
+}
 
-
-
+function generateSnake() {
+  let posX = Math.round(Math.random() * (10 - 1) + 1);
 }
