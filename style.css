@@ -25,3 +25,9 @@ body {
   background-size: cover;
   border-radius: 50px;
 }
+
+.hade {
+  background: url(cat.jpg);
+  background-size: cover;
+  border-radius: 10px;
+}
