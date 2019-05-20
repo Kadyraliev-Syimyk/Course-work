@@ -1,0 +1,1 @@
+I create the game "Snake" on a clean javascript.
